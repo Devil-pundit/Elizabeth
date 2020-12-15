@@ -1,6 +1,6 @@
 # ELIZABETH
 <p align="center">
-    <a href="https://github.com/swatv3nub/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/swatv3nub/Elizabeth/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/swatv3nub/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/swatv3nub/Elizabeth/Alpha?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
     <a href="https://github.com/swatv3nub/Elizabeth/stargazers"><img src="https://img.shields.io/github/stars/swatv3nub/Elizabeth?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
     <a href="https://github.com/swatv3nub/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/swatv3nub/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
