@@ -58,7 +58,7 @@ I have lots of handy features â˜ºï¸ such as :
 â€¢ flood control.         â€¢ Note'S keeping system.
 â€¢ Warning System.   â€¢ Predetermined Filters.
 
-*Managed by @TheFuckErGuy
+*Managed by @Devil_pundit
 
 Wanna Add me to your Group? Just click the button below!
 """
@@ -259,7 +259,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://telegra.ph/file/bd72857322159140bec6b.jpg",
+                "https://telegra.ph/file/6ee7b8516862371288b5f.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
